@@ -1,9 +1,44 @@
 {
   "version": "1.0",
   "corpus": "lc",
-  "generated_at": "2026-05-11T08:48:45Z",
-  "total": 1,
+  "generated_at": "2026-05-11T08:52:53Z",
+  "total": 6,
   "reports": {
+    "277": {
+      "report_number": 277,
+      "sha256": "a1014b095a109465690d559e66f4727003a5b709765ff48ac1e07e1266a603e6",
+      "size_bytes": 1024901,
+      "archived_at": "2026-05-11T08:52:48Z",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbdf/uploads/2022/08/2022081613.pdf"
+    },
+    "278": {
+      "report_number": 278,
+      "sha256": "42e107c85be917d8d5f0959e58c7ec765ba8c2aa412c084a848b9c59a5b1e2cc",
+      "size_bytes": 5986677,
+      "archived_at": "2026-05-11T08:52:53Z",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbdf/uploads/2023/03/2023032990.pdf"
+    },
+    "279": {
+      "report_number": 279,
+      "sha256": "ff9b32db0ed680b11d71469eb1fd9968aba5861517e947acde4ee37937dc3d77",
+      "size_bytes": 2751648,
+      "archived_at": "2026-05-11T08:52:49Z",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbdf/uploads/2023/06/2023060150.pdf"
+    },
+    "280": {
+      "report_number": 280,
+      "sha256": "586643dc285d9b8a30f9c7da273f29c3e01713f8946f1afd95403b94ecd29cd5",
+      "size_bytes": 4299200,
+      "archived_at": "2026-05-11T08:52:41Z",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbdf/uploads/2023/06/2023060190.pdf"
+    },
+    "281": {
+      "report_number": 281,
+      "sha256": "dd6dfc0cf48cf43b64ee17c0a6ac08ead09d442b430de7ab78193d9d5a63e8c3",
+      "size_bytes": 8825466,
+      "archived_at": "2026-05-11T08:52:41Z",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbdf/uploads/2023/08/2023081169.pdf"
+    },
     "283": {
       "report_number": 283,
       "sha256": "db3bb589964bced82a25ce32634940d0ed5d49de3b8fa4f88bc6adc2cee94c98",
